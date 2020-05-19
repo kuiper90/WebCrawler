@@ -1,0 +1,7 @@
+D:\Git\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+D:\Git\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+D:\Git\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+D:\Git\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CoreCompileInputs.cache
+D:\Git\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+D:\Git\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
+D:\Git\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojAssemblyReference.cache
